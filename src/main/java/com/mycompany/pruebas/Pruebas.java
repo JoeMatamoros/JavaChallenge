@@ -117,7 +117,8 @@ public class Pruebas {
     
     /*Contar caracteres repetidos*/
     public static void main(String[] args) {
-        Pruebas app = new Pruebas(); 
+        Pruebas app = new Pruebas();
+        Scanner scan = new Scanner();
         //app.miInvertString("Palindromo");
         //app.isCapicua(56);
         //app.countCharacterTimes("Hola Mundo");
